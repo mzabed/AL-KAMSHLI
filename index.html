@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AL KAMSHLI MOBILE PHONES LLC</title>
+</head>
+<div>
+    <h1 style="color: green;" > AL KAMSHLI MOBILE PHONES LLC </h1>
+</div>
+<div>
+    <h6 style="color: black;">NEW & USED MOBILE BUY-SALES, MOBILE HARDWARE & SOFTWARE, MOBILE ACCESSORIES</h6>
+<hr>
+<p>USER NAME</p> <Input type="USER NAME" placeholder="USER NAME" />
+<P>PASSWORD</P> <input type="password" placeholder="PASSWORD" />
+<P>DATE</P> <input type="date" placeholder="DATE" />
+<div>
+   <button>SUBMIT</button>
+</div>
+
+<a href="https://alkamshli.blogspot.com/">click here</a>
+<div>
+<h2 style="color: brown;">Heading2</h2>
+<h3 style="color: cornflowerblue;">heading3</h3>
+<h4>heading4</h4>
+<h5>heading5</h5>
+</div>
+<p>i am a studen</p>
+<p>i am a web Developer</p>
+
+<div>
+<img src="images/thumbnail1.png" width="150PX" height="150PX">
+</div>
+<div>
+<img src="images/thumbnail2.png">
+</div>
+<div>
+<ul>NURUL AMIN</ul>
+<ul>MOHAMMAD ZABED</ul>
+<ul>NASIR UDDIN </ul>
+<ul>SADMAN AMIN</ul>
+<div>
+<div>
+    <ol>
+    <li>NURUL AMIN</li>
+    <li>MOHAMMAD ZABED</li>
+    <li>NASIR UDDIN</li>
+    <li>SADMAN AMIN</li>
+</ol>
+</div>
+<div>
+<span> <strong> i am BANGLADESHI <br> i live in chattogram</strong></span>
+</div>
+<hr>
+
+<P style="background-color: grey;"><strong>MOHAMMAD ZABED</strong></P>
+</body>
+</html>
